@@ -1,0 +1,1 @@
+aprendi a usar operaçoes em vetores no javascript
