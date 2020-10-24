@@ -3,6 +3,6 @@ class todolist {
         this.todos= []
     }
     addtodo(){
-        this.todos.push(!)
+        this.todos.push()
     }
 }
